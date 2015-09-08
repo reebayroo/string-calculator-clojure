@@ -1,6 +1,5 @@
 # string_calculator
-
-A Clojure library designed to ... well, that part is up to you.
+KATA from http://osherove.com/tdd-kata-1/
 
 ## Usage
 lein autoexpect
